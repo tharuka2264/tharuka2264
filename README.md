@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tharuka perera</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Tharuka!;I'm+a+proudly+Sri+Lankans)](https://git.io/typing-svg)
+----
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
