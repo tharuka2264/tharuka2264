@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Information and communication technology at University of Ruhuna .\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sanduntharuka2264@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sanduntharuka2264@gmail.com! I'll try to respond as soon as I can.
 
 
 
@@ -24,3 +24,9 @@
 ### 🗃 &nbsp;Databases
 
 ![Mysql](https://img.shields.io/badge/Mysql-%23316192.svg?style=for-the-badge&logo=Mysql&logoColor=white)&nbsp;
+
+### 🧰 &nbsp;Version Controll & Tools 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
